@@ -1,4 +1,4 @@
-# Playstation-Bootleg-Css-HTML 🎮
+# Playstation-Bootleg 🎮
 
 Tentei Reproduzir o Design da Home do site da Sony com CSS e HTML
 
